@@ -129,7 +129,7 @@ Grove コネクタ経由での接続を想定し、I/O 定義を調整した派�
 以下のリポジトリで公開しています。
 
 - フォーク先リポジトリ  
-  <https://github.com/haruka-imgr/ultrasonic.mofmofdetection-grove>
+  <https://github.com/haruka-imgr/ultrasonic-mofmof-grove>
 
 このリポジトリは、  
 TDK InvenSense が公開している `ultrasonic.mofmofdetection` をフォークし、
